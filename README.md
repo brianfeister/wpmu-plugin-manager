@@ -1,6 +1,8 @@
 # Multisite Plugin Manager
 __Manage plugin permissions in a WordPress MU installation__
 
+Master: [![Build Status](https://travis-ci.org/wp-repository/multisite-plugin-manager.png?branch=master)](https://travis-ci.org/wp-repository/multisite-plugin-manager)
+
 [Homepage][1.1]
 
 | WordPress					| Version			| *		| Development				|					|
@@ -60,10 +62,10 @@ __[GPLv2](http://www.gnu.org/licenses/gpl-2.0.html)__
 
 
 ## Changelog
+* __TODO__ _[future plans/roadmap][4.1]_
+	* custom unit tests @TODO
 * __3.3-dev__ _[future plans/roadmap][4.1]_
 	* added build testing via travis-ci.org
-	* added custom unit tests @TODO
-	* TBD
 * __3.2__
 	* __Forked (dirty) from [Multisite Plugin Manager](http://wordpress.org/extend/plugins/multisite-plugin-manager/) by [UglyRobot Web Development](http://uglyrobot.com)__
 	* added translation support
