@@ -64,7 +64,7 @@ __[GPLv2](http://www.gnu.org/licenses/gpl-2.0.html)__
 ## Changelog
 * __TODO__ _[future plans/roadmap][4.1]_
 	* custom unit tests @TODO
-* __3.3-dev__ _[future plans/roadmap][4.1]_
+* __3.3-dev__
 	* added build testing via travis-ci.org
 * __3.2__
 	* __Forked (dirty) from [Multisite Plugin Manager](http://wordpress.org/extend/plugins/multisite-plugin-manager/) by [UglyRobot Web Development](http://uglyrobot.com)__
